@@ -2,7 +2,8 @@
 repository with code for thesis
 
 In the zip file, the files for our algorithm can be found. 
-Gras_simulation is the main program, this file writes to specific folers so emptry folders with the following names should be made:
+
+Gras_simulation is the main program, this file writes to specific folders, so empty folders with the following names should be made:
   - roomrecordings
   - split_positions
   - dataframes
